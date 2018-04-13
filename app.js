@@ -1,2 +1,1 @@
-<!doctype><html>
-</html>
+console.log('hello');
